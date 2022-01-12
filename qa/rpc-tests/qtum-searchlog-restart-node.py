@@ -10,7 +10,7 @@ from test_framework.mininode import *
 import sys
 
 RPC_INVALID_PARAMETER = -8
-class QtumRPCSearchlogsTestModified(BitcoinTestFramework):
+class VuiCashRPCSearchlogsTestModified(BitcoinTestFramework):
 
    def __init__(self):
        super().__init__()
@@ -145,4 +145,4 @@ class QtumRPCSearchlogsTestModified(BitcoinTestFramework):
        self.check_logs(contract_addresses, first_output, False)
 
 if __name__ == '__main__':
-   QtumRPCSearchlogsTestModified().main()
+   VuiCashRPCSearchlogsTestModified().main()

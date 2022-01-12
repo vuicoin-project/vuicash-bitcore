@@ -81,12 +81,12 @@ public:
     }
 };
 
-class QtumVersionChecker : public QObject
+class VuiCashVersionChecker : public QObject
 {
     Q_OBJECT
 public:
-    explicit QtumVersionChecker(QObject *parent = 0);
-    ~QtumVersionChecker();
+    explicit VuiCashVersionChecker(QObject *parent = 0);
+    ~VuiCashVersionChecker();
 
     bool newVersionAvailable();
 

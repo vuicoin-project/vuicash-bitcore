@@ -128,7 +128,7 @@
     </message>
 </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Signer &amp;message...</translation>
@@ -218,8 +218,8 @@
         <translation>Réindexer les blocs sur le disque...</translation>
     </message>
     <message>
-        <source>Send coins to a Qtum address</source>
-        <translation>Envoyer des pièces à une adresse Qtum</translation>
+        <source>Send coins to a VuiCash address</source>
+        <translation>Envoyer des pièces à une adresse VuiCash</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -242,8 +242,8 @@
         <translation>&amp;Vérification du message</translation>
     </message>
     <message>
-        <source>Qtum</source>
-        <translation>Qtum</translation>
+        <source>VuiCash</source>
+        <translation>VuiCash</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -270,8 +270,8 @@
         <translation>Crypter les clé privées qui appartiennent votre portefeuille</translation>
     </message>
     <message>
-        <source>Sign messages with your Qtum addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses Qtum pour prouver que vous les détenez</translation>
+        <source>Sign messages with your VuiCash addresses to prove you own them</source>
+        <translation>Signer vos messages avec vos adresses VuiCash pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -306,8 +306,8 @@
         <translation>&amp;Options de ligne de commande</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Qtum network</source>
-        <translation><numerusform>%n connexion active au réseau Qtum</numerusform><numerusform>%n connexions actives au réseau Qtum</numerusform></translation>
+        <source>%n active connection(s) to VuiCash network</source>
+        <translation><numerusform>%n connexion active au réseau VuiCash</numerusform><numerusform>%n connexions actives au réseau VuiCash</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -684,8 +684,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically open the Qtum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Qtum automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the VuiCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client VuiCash automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -844,8 +844,8 @@
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Qtum address (e.g. %1)</source>
-        <translation>Entrer une adresse Qtum (e.g. %1)</translation>
+        <source>Enter a VuiCash address (e.g. %1)</source>
+        <translation>Entrer une adresse VuiCash (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1662,8 +1662,8 @@
         <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
     </message>
     <message>
-        <source>Qtum Core</source>
-        <translation>Qtum Core</translation>
+        <source>VuiCash Core</source>
+        <translation>VuiCash Core</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

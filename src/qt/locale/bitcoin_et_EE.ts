@@ -100,7 +100,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>Synchronizing with network...</source>
         <translation>Võrguga sünkroniseerimine...</translation>
@@ -118,8 +118,8 @@
         <translation>Kõvakettal olevate plokkide reindekseerimine...</translation>
     </message>
     <message>
-        <source>Qtum</source>
-        <translation>Qtum</translation>
+        <source>VuiCash</source>
+        <translation>VuiCash</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -728,8 +728,8 @@
         <translation>Valikud:</translation>
     </message>
     <message>
-        <source>Qtum Core</source>
-        <translation>Qtum Core</translation>
+        <source>VuiCash Core</source>
+        <translation>VuiCash Core</translation>
     </message>
     <message>
         <source>Information</source>

@@ -62,11 +62,11 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your Qtum addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your VuiCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your Qtum addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your VuiCash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
@@ -220,7 +220,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Падпісаць паведамленне...</translation>
@@ -298,7 +298,7 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Qtum address</source>
+        <source>Send coins to a VuiCash address</source>
         <translation>Даслаць манеты на Біткойн-адрас</translation>
     </message>
     <message>
@@ -322,7 +322,7 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Qtum</source>
+        <source>VuiCash</source>
         <translation>Біткойн</translation>
     </message>
     <message>
@@ -350,11 +350,11 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Qtum addresses to prove you own them</source>
+        <source>Sign messages with your VuiCash addresses to prove you own them</source>
         <translation>Падпісаць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Qtum addresses</source>
+        <source>Verify messages to ensure they were signed with specified VuiCash addresses</source>
         <translation>Спраўдзіць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
@@ -1258,8 +1258,8 @@
         <translation>Запусціць у фоне як дэман і прымаць каманды</translation>
     </message>
     <message>
-        <source>Qtum Core</source>
-        <translation>Qtum Core</translation>
+        <source>VuiCash Core</source>
+        <translation>VuiCash Core</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

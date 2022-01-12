@@ -124,7 +124,7 @@
     </message>
 </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>Synchronizing with network...</source>
         <translation>Usklađivanje sa mrežom...</translation>
@@ -158,16 +158,16 @@
         <translation>Otvori &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a Qtum address</source>
-        <translation>Pošalji novčiće na Qtum adresu</translation>
+        <source>Send coins to a VuiCash address</source>
+        <translation>Pošalji novčiće na VuiCash adresu</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Proveri poruku...</translation>
     </message>
     <message>
-        <source>Qtum</source>
-        <translation>Qtum</translation>
+        <source>VuiCash</source>
+        <translation>VuiCash</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -406,8 +406,8 @@
 <context>
     <name>qtum-core</name>
     <message>
-        <source>Qtum Core</source>
-        <translation>Qtum Core</translation>
+        <source>VuiCash Core</source>
+        <translation>VuiCash Core</translation>
     </message>
     <message>
         <source>Information</source>

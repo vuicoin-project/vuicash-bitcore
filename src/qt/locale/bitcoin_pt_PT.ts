@@ -208,7 +208,7 @@
     </message>
 </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Assinar &amp;mensagem...</translation>
@@ -310,8 +310,8 @@
         <translation>A reindexar os blocos no disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Qtum address</source>
-        <translation>Enviar moedas para um endereço Qtum</translation>
+        <source>Send coins to a VuiCash address</source>
+        <translation>Enviar moedas para um endereço VuiCash</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -334,8 +334,8 @@
         <translation>&amp;Verificar mensagem...</translation>
     </message>
     <message>
-        <source>Qtum</source>
-        <translation>Qtum</translation>
+        <source>VuiCash</source>
+        <translation>VuiCash</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -362,12 +362,12 @@
         <translation>Encriptar as chaves privadas que pertencem à sua carteira</translation>
     </message>
     <message>
-        <source>Sign messages with your Qtum addresses to prove you own them</source>
-        <translation>Assine as mensagens com os seus endereços Qtum para provar que é o proprietário dos mesmos</translation>
+        <source>Sign messages with your VuiCash addresses to prove you own them</source>
+        <translation>Assine as mensagens com os seus endereços VuiCash para provar que é o proprietário dos mesmos</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Qtum addresses</source>
-        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço Qtum especificado</translation>
+        <source>Verify messages to ensure they were signed with specified VuiCash addresses</source>
+        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço VuiCash especificado</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -406,8 +406,8 @@
         <translation>&amp;Opções da linha de &amp;comando</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Qtum network</source>
-        <translation><numerusform>%n ligação ativa à rede Qtum</numerusform><numerusform>%n ligações ativas à rede Qtum</numerusform></translation>
+        <source>%n active connection(s) to VuiCash network</source>
+        <translation><numerusform>%n ligação ativa à rede VuiCash</numerusform><numerusform>%n ligações ativas à rede VuiCash</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -953,7 +953,7 @@
         <translation>&amp;Gastar troco não confirmado</translation>
     </message>
     <message>
-        <source>Automatically open the Qtum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the VuiCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Abrir a porta do cliente qtum automaticamente no seu router. Isto apenas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
     </message>
     <message>
@@ -961,8 +961,8 @@
         <translation>Mapear porta, utilizando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Qtum network through a SOCKS5 proxy.</source>
-        <translation>Conectar à rede da Qtum através dum proxy SOCLS5.</translation>
+        <source>Connect to the VuiCash network through a SOCKS5 proxy.</source>
+        <translation>Conectar à rede da VuiCash através dum proxy SOCLS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1001,8 +1001,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Qtum network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Ligar à rede Qtum através de um proxy SOCKS5 separado para utilizar os serviços ocultos do Tor.</translation>
+        <source>Connect to the VuiCash network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Ligar à rede VuiCash através de um proxy SOCKS5 separado para utilizar os serviços ocultos do Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1096,8 +1096,8 @@
         <translation>Formulário</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Qtum network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede Qtum depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the VuiCash network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede VuiCash depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1213,8 +1213,8 @@
         <translation>Quantia</translation>
     </message>
     <message>
-        <source>Enter a Qtum address (e.g. %1)</source>
-        <translation>Entre um endereço Qtum (ex. %1)</translation>
+        <source>Enter a VuiCash address (e.g. %1)</source>
+        <translation>Entre um endereço VuiCash (ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1549,8 +1549,8 @@
         <translation>Reutilizar um endereço de receção existente (não recomendado)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Qtum network.</source>
-        <translation>Uma mensagem opcional para anexar ao pedido de pagamento, que será exibida quando o pedido for aberto. Nota: A mensagem não será enviada com o pagamento através da rede Qtum.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the VuiCash network.</source>
+        <translation>Uma mensagem opcional para anexar ao pedido de pagamento, que será exibida quando o pedido for aberto. Nota: A mensagem não será enviada com o pagamento através da rede VuiCash.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1869,8 +1869,8 @@
         <translation>Este é um pagamento normal.</translation>
     </message>
     <message>
-        <source>The Qtum address to send the payment to</source>
-        <translation>O endereço Qtum para enviar o pagamento</translation>
+        <source>The VuiCash address to send the payment to</source>
+        <translation>O endereço VuiCash para enviar o pagamento</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1913,8 +1913,8 @@
         <translation>Introduza um rótulo para este endereço para o adicionar à sua lista de endereços usados</translation>
     </message>
     <message>
-        <source>A message that was attached to the qtum: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Qtum network.</source>
-        <translation>Uma mensagem que estava anexada ao URI qtum: que será armazenada com a transação para sua referência. Nota: Esta mensagem não será enviada através da rede Qtum.</translation>
+        <source>A message that was attached to the qtum: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the VuiCash network.</source>
+        <translation>Uma mensagem que estava anexada ao URI qtum: que será armazenada com a transação para sua referência. Nota: Esta mensagem não será enviada através da rede VuiCash.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1954,8 +1954,8 @@
         <translation>Pode assinar mensagens com os seus endereços para provar que são seus. Tenha atenção ao assinar mensagens ambíguas, pois ataques de phishing podem tentar enganá-lo de modo a assinar a sua identidade para os atacantes. Apenas assine declarações detalhadas com as quais concorde.</translation>
     </message>
     <message>
-        <source>The Qtum address to sign the message with</source>
-        <translation>O endereço Qtum para designar a mensagem</translation>
+        <source>The VuiCash address to sign the message with</source>
+        <translation>O endereço VuiCash para designar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1986,8 +1986,8 @@
         <translation>Copiar a assinatura actual para a área de transferência</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Qtum address</source>
-        <translation>Assine uma mensagem para provar que é dono deste endereço Qtum</translation>
+        <source>Sign the message to prove you own this VuiCash address</source>
+        <translation>Assine uma mensagem para provar que é dono deste endereço VuiCash</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2010,12 +2010,12 @@
         <translation>Introduza o endereço de assinatura, mensagem (assegure-se que copia quebras de linha, espaços, tabulações, etc. exactamente) e assinatura abaixo para verificar a mensagem. Tenha atenção para não ler mais na assinatura do que o que estiver na mensagem assinada, para evitar ser enganado por um atacante que se encontre entre si e quem assinou a mensagem.</translation>
     </message>
     <message>
-        <source>The Qtum address the message was signed with</source>
-        <translation>O endereço Qtum com que a mensagem foi designada</translation>
+        <source>The VuiCash address the message was signed with</source>
+        <translation>O endereço VuiCash com que a mensagem foi designada</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Qtum address</source>
-        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço Qtum especificado</translation>
+        <source>Verify the message to ensure it was signed with the specified VuiCash address</source>
+        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço VuiCash especificado</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2183,8 +2183,8 @@
         <translation>Não é possível iniciar o servidor HTTP. Verifique o debug.log para detalhes.</translation>
     </message>
     <message>
-        <source>Qtum Core</source>
-        <translation>Qtum Core</translation>
+        <source>VuiCash Core</source>
+        <translation>VuiCash Core</translation>
     </message>
     <message>
         <source>A fee rate (in %s/kB) that will be used when fee estimation has insufficient data (default: %s)</source>

@@ -76,7 +76,7 @@
     </message>
 </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>&amp;Transactions</source>
         <translation>Transazioni</translation>

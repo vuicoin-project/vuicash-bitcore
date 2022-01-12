@@ -76,7 +76,7 @@
     </message>
 </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Podpiši &amp;sporočilo ...</translation>
@@ -154,8 +154,8 @@
         <translation>Poustvarjam kazalo blokov na disku ...</translation>
     </message>
     <message>
-        <source>Send coins to a Qtum address</source>
-        <translation>Izvedite plačilo na naslov Qtum</translation>
+        <source>Send coins to a VuiCash address</source>
+        <translation>Izvedite plačilo na naslov VuiCash</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -178,8 +178,8 @@
         <translation>&amp;Preveri sporočilo ...</translation>
     </message>
     <message>
-        <source>Qtum</source>
-        <translation>Qtum</translation>
+        <source>VuiCash</source>
+        <translation>VuiCash</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -206,12 +206,12 @@
         <translation>Šifrirajte zasebne ključe, ki se nahajajo v denarnici</translation>
     </message>
     <message>
-        <source>Sign messages with your Qtum addresses to prove you own them</source>
-        <translation>Podpišite poljubno sporočilo z enim svojih naslovov Qtum, da prejemniku sporočila dokažete, da je ta naslov v vaši lasti.</translation>
+        <source>Sign messages with your VuiCash addresses to prove you own them</source>
+        <translation>Podpišite poljubno sporočilo z enim svojih naslovov VuiCash, da prejemniku sporočila dokažete, da je ta naslov v vaši lasti.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Qtum addresses</source>
-        <translation>Preverite, če je bilo prejeto sporočilo podpisano z določenim naslovom Qtum</translation>
+        <source>Verify messages to ensure they were signed with specified VuiCash addresses</source>
+        <translation>Preverite, če je bilo prejeto sporočilo podpisano z določenim naslovom VuiCash</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -250,8 +250,8 @@
         <translation>Opcije &amp;ukazne vrstice</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Qtum network</source>
-        <translation><numerusform>%n aktivna povezava v omrežje Qtum</numerusform><numerusform>%n aktivni povezavi v omrežje Qtum</numerusform><numerusform>%n aktivne povezave v omrežje Qtum</numerusform><numerusform>%n aktivnih povezav v omrežje Qtum</numerusform></translation>
+        <source>%n active connection(s) to VuiCash network</source>
+        <translation><numerusform>%n aktivna povezava v omrežje VuiCash</numerusform><numerusform>%n aktivni povezavi v omrežje VuiCash</numerusform><numerusform>%n aktivne povezave v omrežje VuiCash</numerusform><numerusform>%n aktivnih povezav v omrežje VuiCash</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -660,7 +660,7 @@
         <translation>Omogoči &amp;trošenje drobiža iz še nepotrjenih plačil</translation>
     </message>
     <message>
-        <source>Automatically open the Qtum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the VuiCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Program samodejno odpre ustrezna vrata na usmerjevalniku. To deluje samo, če vaš usmerjevalnik podpira in ima omogočen UPnP.</translation>
     </message>
     <message>
@@ -668,8 +668,8 @@
         <translation>Preslikaj vrata z uporabo &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Qtum network through a SOCKS5 proxy.</source>
-        <translation>Poveži se v omrežje Qtum preko posredniškega strežnika SOCKS5.</translation>
+        <source>Connect to the VuiCash network through a SOCKS5 proxy.</source>
+        <translation>Poveži se v omrežje VuiCash preko posredniškega strežnika SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -771,8 +771,8 @@
         <translation>Oblika</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Qtum network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatki so morda zastareli. Program ob vzpostavitvi povezave samodejno sinhronizira denarnico z omrežjem Qtum, a trenutno ta proces še ni zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the VuiCash network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatki so morda zastareli. Program ob vzpostavitvi povezave samodejno sinhronizira denarnico z omrežjem VuiCash, a trenutno ta proces še ni zaključen.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -860,8 +860,8 @@
         <translation>Znesek</translation>
     </message>
     <message>
-        <source>Enter a Qtum address (e.g. %1)</source>
-        <translation>Vnesite naslov Qtum (npr. %1):</translation>
+        <source>Enter a VuiCash address (e.g. %1)</source>
+        <translation>Vnesite naslov VuiCash (npr. %1):</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1124,8 +1124,8 @@
         <translation>P&amp;onovno uporabite obstoječ naslov za prejemanje. (Ni priporočeno.)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Qtum network.</source>
-        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja Qtum tega sporočila ne bo vsebovalo.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the VuiCash network.</source>
+        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja VuiCash tega sporočila ne bo vsebovalo.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1360,8 +1360,8 @@
         <translation>Plačilo je navadne vrste.</translation>
     </message>
     <message>
-        <source>The Qtum address to send the payment to</source>
-        <translation>Naslov Qtum, na katerega bo plačilo poslano</translation>
+        <source>The VuiCash address to send the payment to</source>
+        <translation>Naslov VuiCash, na katerega bo plačilo poslano</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1404,8 +1404,8 @@
         <translation>Če vnesete oznako za zgornji naslov, se bo skupaj z naslovom shranila v imenk že uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the qtum: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Qtum network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI tipa qtum:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja Qtum.</translation>
+        <source>A message that was attached to the qtum: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the VuiCash network.</source>
+        <translation>Sporočilo, ki ste ga pripeli na URI tipa qtum:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja VuiCash.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1441,8 +1441,8 @@
         <translation>S svojimi naslovi lahko podpisujete sporočila ali pogodbe in s tem dokazujete, da na teh naslovih lahko prejemate kovance. Bodite previdni in ne podpisujte ničesar nejasnega ali naključnega, ker vas zlikovci preko ribarjenja (phishing) lahko prelisičijo, da na njih prepišete svojo identiteto. Podpisujte samo podrobno opisane izjave, s katerimi se strinjate.</translation>
     </message>
     <message>
-        <source>The Qtum address to sign the message with</source>
-        <translation>Naslov Qtum, s katerim podpisujete sporočilo</translation>
+        <source>The VuiCash address to sign the message with</source>
+        <translation>Naslov VuiCash, s katerim podpisujete sporočilo</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1473,7 +1473,7 @@
         <translation>Kopiranje trenutnega podpisa na sistemsko odložišče.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Qtum address</source>
+        <source>Sign the message to prove you own this VuiCash address</source>
         <translation>Podpišite sporočilo, da dokažete lastništvo nad zgornjim naslovom.</translation>
     </message>
     <message>
@@ -1497,12 +1497,12 @@
         <translation>Da preverite verodostojnost sporočila, spodaj vnesite: prejemnikov naslov, prejeto sporočilo (pazljivo skopirajte vse prelome vrstic, presledke, tabulatorje ipd.,) in prejeti podpis. Da se izognete napadom tipa man-in-the-middle, vedite, da iz veljavnega podpisa ne sledi nič drugega, kot tisto, kar je navedeno v sporočilu. Podpis samo potrjuje dejstvo, da ima podpisnik v lasti prejemni naslov, ne more pa dokazati vira nobene transakcije!</translation>
     </message>
     <message>
-        <source>The Qtum address the message was signed with</source>
-        <translation>Naslov Qtum, s katerim je bilo sporočilo podpisano</translation>
+        <source>The VuiCash address the message was signed with</source>
+        <translation>Naslov VuiCash, s katerim je bilo sporočilo podpisano</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Qtum address</source>
-        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom Qtum.</translation>
+        <source>Verify the message to ensure it was signed with the specified VuiCash address</source>
+        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom VuiCash.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1590,8 +1590,8 @@
         <translation>Teci v ozadju in sprejemaj ukaze</translation>
     </message>
     <message>
-        <source>Qtum Core</source>
-        <translation>Qtum Core</translation>
+        <source>VuiCash Core</source>
+        <translation>VuiCash Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

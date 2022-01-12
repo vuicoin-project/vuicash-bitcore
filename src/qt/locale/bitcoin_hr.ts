@@ -54,8 +54,8 @@
         <translation>&amp;Odaberi</translation>
     </message>
     <message>
-        <source>These are your Qtum addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Qtum adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your VuiCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše VuiCash adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -92,7 +92,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>QtumGUI</name>
+    <name>VuiCashGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>P&amp;otpišite poruku...</translation>
@@ -174,7 +174,7 @@
         <translation>Re-indeksiranje blokova na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Qtum address</source>
+        <source>Send coins to a VuiCash address</source>
         <translation>Slanje novca na qtum adresu</translation>
     </message>
     <message>
@@ -198,8 +198,8 @@
         <translation>&amp;Potvrdite poruku...</translation>
     </message>
     <message>
-        <source>Qtum</source>
-        <translation>Qtum</translation>
+        <source>VuiCash</source>
+        <translation>VuiCash</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -226,11 +226,11 @@
         <translation>Šifriranje privatnih ključeva koji u novčaniku</translation>
     </message>
     <message>
-        <source>Sign messages with your Qtum addresses to prove you own them</source>
+        <source>Sign messages with your VuiCash addresses to prove you own them</source>
         <translation>Poruku potpišemo s qtum adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Qtum addresses</source>
+        <source>Verify messages to ensure they were signed with specified VuiCash addresses</source>
         <translation>Provjeravanje poruke, kao dokaz, da je potpisana navedenom qtum adresom</translation>
     </message>
     <message>
@@ -270,8 +270,8 @@
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Qtum network</source>
-        <translation><numerusform>%n aktivna veza na Qtum mrežu</numerusform><numerusform>%n aktivnih veza na Qtum mrežu</numerusform><numerusform>%n aktivnih veza na Qtum mrežu</numerusform></translation>
+        <source>%n active connection(s) to VuiCash network</source>
+        <translation><numerusform>%n aktivna veza na VuiCash mrežu</numerusform><numerusform>%n aktivnih veza na VuiCash mrežu</numerusform><numerusform>%n aktivnih veza na VuiCash mrežu</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -427,7 +427,7 @@
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Qtum adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
+        <translation>VuiCash adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -568,8 +568,8 @@
         <translation>&amp;Trošenje nepotvrđenih vraćenih iznosa</translation>
     </message>
     <message>
-        <source>Automatically open the Qtum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Qtum klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the VuiCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port VuiCash klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -643,8 +643,8 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Qtum network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Qtum mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the VuiCash network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s VuiCash mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -1034,8 +1034,8 @@
         <translation>Izvršavaj u pozadini kao uslužnik i prihvaćaj komande</translation>
     </message>
     <message>
-        <source>Qtum Core</source>
-        <translation>Qtum Core</translation>
+        <source>VuiCash Core</source>
+        <translation>VuiCash Core</translation>
     </message>
     <message>
         <source>Block creation options:</source>
