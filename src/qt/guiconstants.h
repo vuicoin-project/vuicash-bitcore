@@ -49,7 +49,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "VuiCash"
-#define QAPP_ORG_DOMAIN "qtum.org"
+#define QAPP_ORG_DOMAIN "vuicash.org"
 #define QAPP_APP_NAME_DEFAULT "VuiCash-Qt"
 #define QAPP_APP_NAME_TESTNET "VuiCash-Qt-testnet"
 

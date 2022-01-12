@@ -418,7 +418,7 @@
     </message>
     </context>
 <context>
-    <name>qtum-core</name>
+    <name>vuicash-core</name>
     <message>
         <source>VuiCash Core</source>
         <translation>Биткойн ядро</translation>

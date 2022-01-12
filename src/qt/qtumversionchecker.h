@@ -3,7 +3,7 @@
 
 #include <QObject>
 
-#define VUI_RELEASES "https://github.com/yody-project/qtum/releases"
+#define VUI_RELEASES "https://github.com/yody-project/vuicash/releases"
 
 class Version {
 

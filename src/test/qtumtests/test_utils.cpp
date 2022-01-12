@@ -1,4 +1,4 @@
-#include <qtumtests/test_utils.h>
+#include <vuicashtests/test_utils.h>
 
 void initState(){
     boost::filesystem::path pathTemp;		
@@ -6,7 +6,7 @@ void initState(){
     boost::filesystem::create_directories(pathTemp);
     const std::string dirVuiCash = pathTemp.string();
     const dev::h256 hashDB(dev::sha3(dev::rlp("")));
-    globalState = std::unique_ptr<VuiCashState>(new VuiCashState(dev::u256(0), VuiCashState::openDB(dirVuiCash, hashDB, dev::WithExisting::Trust), dirVuiCash + "/qtumDB", dev::eth::BaseState::Empty));
+    globalState = std::unique_ptr<VuiCashState>(new VuiCashState(dev::u256(0), VuiCashState::openDB(dirVuiCash, hashDB, dev::WithExisting::Trust), dirVuiCash + "/vuicashDB", dev::eth::BaseState::Empty));
 
     globalState->setRootUTXO(dev::sha3(dev::rlp(""))); // temp
 }
@@ -54,8 +54,8 @@ VuiCashTransaction createVuiCashTransaction(valtype data, dev::u256 value, dev::
 
 std::pair<std::vector<ResultExecute>, ByteCodeExecResult> executeBC(std::vector<VuiCashTransaction> txs){
     CBlock block(generateBlock());
-    VuiCashDGP qtumDGP(globalState.get(), fGettingValuesDGP);
-    uint64_t blockGasLimit = qtumDGP.getBlockGasLimit(chainActive.Tip()->nHeight + 1);
+    VuiCashDGP vuicashDGP(globalState.get(), fGettingValuesDGP);
+    uint64_t blockGasLimit = vuicashDGP.getBlockGasLimit(chainActive.Tip()->nHeight + 1);
     ByteCodeExec exec(block, txs, blockGasLimit);
     exec.performByteCode();
     std::vector<ResultExecute> res = exec.getResult();

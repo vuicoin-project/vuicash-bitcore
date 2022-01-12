@@ -294,7 +294,7 @@
     <name>WalletView</name>
     </context>
 <context>
-    <name>qtum-core</name>
+    <name>vuicash-core</name>
     <message>
         <source>VuiCash Core</source>
         <translation>VuiCash Core</translation>
