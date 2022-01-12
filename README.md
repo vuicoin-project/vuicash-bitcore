@@ -34,7 +34,7 @@ Development resources:
 * [Deploying a custom token to Qtum](https://blog.qtum.org/qtum-custom-token-walkthrough-467d725fa27d)
 * [Early example faucet contract](http://earlz.net/view/2017/06/30/2144/the-qtum-sparknet-faucet)
 * [Unofficial Qtum Hello World tutorial](https://steemit.com/qtum/@cryptominder/quantum-qtum-blockchain-developer-tutorial-hello-world)
-* [Qtum Book - A Developer's Guide To QTUM](https://github.com/yody-project/qtumbook)
+* [Qtum Book - A Developer's Guide To VUI](https://github.com/yody-project/qtumbook)
 
 General Info about Qtum:
 
@@ -56,7 +56,7 @@ Developer's Tools
   * https://github.com/yody-project/qtumportal
 * Docker images for running qtum services
   * https://github.com/yody-project/qtum-docker
-* HTTP API that powers the block explorer and the QTUM web wallet
+* HTTP API that powers the block explorer and the VUI web wallet
   * https://github.com/yody-project/insight-api
 
 
