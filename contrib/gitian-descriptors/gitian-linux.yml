@@ -33,9 +33,9 @@ packages:
 - "libmicrohttpd-dev"
 - "libminiupnpc-dev"
 remotes:
-- "url": "https://github.com/qtumproject/qtum-bitcore.git"
+- "url": "https://github.com/yody-project/qtum-bitcore.git"
   "dir": "qtum-bitcore"
-- "url": "https://github.com/qtumproject/cpp-eth-qtum.git"
+- "url": "https://github.com/yody-project/cpp-eth-qtum.git"
   "dir": "cpp-eth-qtum"
 files: []
 script: |
